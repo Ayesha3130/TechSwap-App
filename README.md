@@ -23,6 +23,7 @@ Furthermore, we created UML diagrams to help represent the flow and how systems 
   g. Shopping Cart - 
   h. Checkout/Payment - 
   i. Order Confirmation - 
+  
 5. Briefly explain the purpose of the UML Diagrams (i.e. we created UML diagrams to help represent the flow and how systems connected together.)
 6. Brief summary of Test Cases (i.e. test cases were created for the purpose of testing our app to determine if its functionality met our specifications)
 7. Briefly epxlain that your documentation contains screenshots of your actual app showing its UI and features of different components.
