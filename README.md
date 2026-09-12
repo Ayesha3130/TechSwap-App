@@ -43,4 +43,4 @@ TechSwap uses Firebase as its primary backend because it integrates well with An
 
 Using the instructions below, you can test out this app yourself.
 
-Check out the app by downloading "app-debug.apk" file under docs and run the app on Android Studio!
+Check out the app by downloading "app-debug.apk" and run the app on Android Studio!
