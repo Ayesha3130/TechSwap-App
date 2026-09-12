@@ -30,5 +30,4 @@ While designing and developing TechSwap, we kept detailed documentation of the r
 
 Using the link below, you can test out this app yourself.
 
-Insert link that is given when you deploy the app
-[TechSwap App](www.github.com)
+Check out the app by downloading "app-debug.apk" under docs to try out the app on Android Studio!
