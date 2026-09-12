@@ -16,13 +16,13 @@ Furthermore, we created UML diagrams to help represent the flow and how systems 
 
     a. Login/Registration Page -
     b. Electronics Listings Page - 
-  c. Search Bar - 
-  d. Filtering Feature - 
-  e. Seller Listing Management - 
-  f. Admin Dashboard -
-  g. Shopping Cart - 
-  h. Checkout/Payment - 
-  i. Order Confirmation - 
+    c. Search Bar - 
+    d. Filtering Feature - 
+    e. Seller Listing Management - 
+    f. Admin Dashboard -
+    g. Shopping Cart - 
+    h. Checkout/Payment - 
+    i. Order Confirmation - 
   
 5. Briefly explain the purpose of the UML Diagrams (i.e. we created UML diagrams to help represent the flow and how systems connected together.)
 6. Brief summary of Test Cases (i.e. test cases were created for the purpose of testing our app to determine if its functionality met our specifications)
