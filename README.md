@@ -14,14 +14,14 @@ Furthermore, we created UML diagrams to help represent the flow and how systems 
 2. Briefly explain the requirements of the app and what languages you used to create it.
 3. Briefly explain the features implemented. You can list under here using a subcategory
     1. `Login/Registration Page` -
-    2. Electronics Listings Page - 
-    3. Search Bar -
-    4. Filtering Feature - 
-    5. Seller Listing Management - 
-    6. Admin Dashboard -
-    7. Shopping Cart - 
-    8. Checkout/Payment - 
-    9. Order Confirmation - 
+    2. `Electronics Listings Page` - 
+    3. `Search Bar` -
+    4. `Filtering Feature` - 
+    5. `Seller Listing Management` - 
+    6. `Admin Dashboard` -
+    7. `Shopping Cart` - 
+    8. `Checkout/Payment` - 
+    9. `Order Confirmation` - 
 5. Briefly explain the purpose of the UML Diagrams (i.e. we created UML diagrams to help represent the flow and how systems connected together.)
 6. Brief summary of Test Cases (i.e. test cases were created for the purpose of testing our app to determine if its functionality met our specifications)
 7. Briefly epxlain that your documentation contains screenshots of your actual app showing its UI and features of different components.
