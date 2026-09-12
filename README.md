@@ -8,8 +8,7 @@
 
 While designing and developing TechSwap, we kept detailed documentation of the requirements of our app and how we planned to design it. Below is a summary of the key portions of our documentation:
 
-1. Problem TechSwap Solves
-TechSwap is an Android based electronics marketplace designed for students who want to buy and sell new or pre-owned electronics. The application was created to provide a more organized and secure environment for student to student transactions and reduce problems such as scame, misleading listings, and unrelaible trading experiences.
+1. **Problem TechSwap Solves** TechSwap is an Android based electronics marketplace designed for students who want to buy and sell new or pre-owned electronics. The application was created to provide a more organized and secure environment for student to student transactions and reduce problems such as scame, misleading listings, and unrelaible trading experiences.
 
 2. App Requirement and Technologies
 TechSwap was designed to support three main user roles: Buyer, Seller, and Admin. The system includes user authentication, role based access control, electronic listings, listing management, shopping cart functionality, checkout, and administrative moderation. The application was developed in Android Studion using Kotlin, Java, XML and Firebase service used for authentication and data storage.
