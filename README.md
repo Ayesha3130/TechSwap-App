@@ -25,9 +25,7 @@ TechSwap was designed to support three main user roles: Buyer, Seller, and Admin
     9. `Order Confirmation` -  Displays information after a successful checkout, including the order confirmation number, purchased items, total amount, and an option to return to the home page.
     
 4. **UML Diagrams**
-We created several UML diagrams to visually represent the structure and flow of TechSwap and show how different parts of the application interact. These included diagrams for login and registration, seller listings, the listing lifecycle, search and filtering, admin interactions, shopping cart components and the checkout process.
-
-These diagrams helped us plan how users, application components, and database operations would connect before and during development. 
+We created several UML diagrams to visually represent the structure and flow of TechSwap and show how different parts of the application interact. These included diagrams for login and registration, seller listings, the listing lifecycle, search and filtering, admin interactions, shopping cart components and the checkout process. These diagrams helped us plan how users, application components, and database operations would connect before and during development. 
 
 5. **Test Cases**
 We created test cases to verify that TechSwap's functionality met our system requirements and behaved as expected. testing covered registration, login, electronic listings, search/filtering, seller listing management, the admin dashboard, shopping cart, checkout/payment, and order confirmation. The tests included both valid scenarios and invalid/error scenarios to help identify problems with functionality and input validation.
@@ -39,9 +37,7 @@ Our documentation contains screenshots of the actual TechSwap application to dem
 The documentation also includes slected source code snippets to demonstrate the logic behind important parts of the application. The included code focuses on the Login Activity, Seller Listings Activity, and Admin Activity, showing jow major application features were implemented and connected to the backend.
 
 8. **Database**
-TechSwap uses Firebase as its primary backend because it integrates well with Android applications, is relatively easy to manage, and provides services suitable for student projects.
-
-We used Firebase Firestore for user information and Firebase Realtime Database for information such as product categories, listings, listing statuses, the admin key, and banner information. Product images themselves were stored using Cloudinary, while the Cloudinary image URLS were saved in Firebase Realtime Database. 
+TechSwap uses Firebase as its primary backend because it integrates well with Android applications, is relatively easy to manage, and provides services suitable for student projects. We used Firebase Firestore for user information and Firebase Realtime Database for information such as product categories, listings, listing statuses, the admin key, and banner information. Product images themselves were stored using Cloudinary, while the Cloudinary image URLS were saved in Firebase Realtime Database. 
 
 # **Hands-on Test**
 
