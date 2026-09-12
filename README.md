@@ -8,8 +8,6 @@
 
 While designing and developing TechSwap, we kept detailed documentation of the requirements of our app and how we planned to design it. Below is a summary of the key portions of our documentation:
 
-Furthermore, we created UML diagrams to help represent the flow and how systems connected together. We wrote test cases for each component of our app and what the expected test results should have been for a test case. We added screenshots of our app showing its UI and features of different components. Code snippets were added to show the logic behind our app. Lastly we showed how our database was set up.
-
 1. Briefly explain what problem your app is trying to solve.
 2. Briefly explain the requirements of the app and what languages you used to create it.
 3. Briefly explain the features implemented. You can list under here using a subcategory
