@@ -1,2 +1,35 @@
-# TechSwap-App
-Developed TechSwap, an Android student electronics marketplace using Kotlin, Java, XML, and Firebase for secure peer-to-peer buying and selling. Implemented Buyer, Seller, and Admin roles with authentication, CRUD listing management, moderation, search/filtering, cart, checkout, and order confirmation.
+# TechSwap Android App
+
+* Developed TechSwap, an Android based student electronics marketplace using Kotlin, Java, XML, and Firebase to enable secure peer-to-peer buying and selling of electronics.
+* Implemented role-based control (Buyer, Seller, Admin) with secure authentication, full listing management (CRUD), and admin moderation features.
+* Designed and built core e-commerce functionality including product search, filtering, shopping cart, checkout, and order confirmation to support a complete user transaction flow.
+
+# Documentation
+
+While designing and developing TechSwap, we kept detailed documentation of the requirements of our app and how we planned to design it. Below is a summary of the key portions of our documentation:
+
+Furthermore, we created UML diagrams to help represent the flow and how systems connected together. We wrote test cases for each component of our app and what the expected test results should have been for a test case. We added screenshots of our app showing its UI and features of different components. Code snippets were added to show the logic behind our app. Lastly we showed how our database was set up.
+
+1. Briefly explain what problem your app is trying to solve.
+2. Briefly explain the requirements of the app and what languages you used to create it.
+3. Briefly explain the features implemented. You can list under here using a subcategory
+  a. Login/Registration Page - 
+  b. Electronics Listings Page - 
+  c. Search Bar - 
+  d. Filtering Feature - 
+  e. Seller Listing Management - 
+  f. Admin Dashboard -
+  g. Shopping Cart - 
+  h. Checkout/Payment - 
+  i. Order Confirmation - 
+5. Briefly explain the purpose of the UML Diagrams (i.e. we created UML diagrams to help represent the flow and how systems connected together.)
+6. Brief summary of Test Cases (i.e. test cases were created for the purpose of testing our app to determine if its functionality met our specifications)
+7. Briefly epxlain that your documentation contains screenshots of your actual app showing its UI and features of different components.
+8. Briefly explain that your documentation contains code snippet which were added to show the logic behind our app.
+9. Briefly explain which database you used, and why you used it (i.e. benefits like it intgerates easily with Andriod Apps, easy to manage, free, etc.).
+
+# Hands-on Test
+
+Using the link below, you can test out this app yourself.
+
+Insert link that is given when you deploy the app
