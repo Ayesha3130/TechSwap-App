@@ -13,6 +13,7 @@ Furthermore, we created UML diagrams to help represent the flow and how systems 
 1. Briefly explain what problem your app is trying to solve.
 2. Briefly explain the requirements of the app and what languages you used to create it.
 3. Briefly explain the features implemented. You can list under here using a subcategory
+    A. Ale
   A. Login/Registration Page -
   b. Electronics Listings Page - 
   c. Search Bar - 
